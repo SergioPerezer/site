@@ -246,11 +246,17 @@ nav{
     padding: 15px 15px 15px 20px;
 }
 
+.head{
+    background: linear-gradient(rgba(5,7,12,0.75), rgba(5,7,12,0.75));
+}
+
+
+
 @media (max-width: 760px){
 
     .title{
         margin-bottom: 0;
-        font-size: 40px;
+        font-size: 30px;
     }
 
     .SIS{
@@ -260,6 +266,5 @@ nav{
     .navbar{
         display: none;
     }
-
 }
 
